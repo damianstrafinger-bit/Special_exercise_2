@@ -3,6 +3,7 @@ package Praxis;
 import java.util.List;
 
 public class Praxis {
+<<<<<<< Updated upstream
     private String myName;
     // prv publ Datatype name
 
@@ -14,4 +15,8 @@ public class Praxis {
         this.myName = myName;
         this.myPatientenliste = name_was_missing;
     }
+=======
+
+    
+>>>>>>> Stashed changes
 }
